@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Data{
+class Data123{
 private:
     int d;
     int m;
